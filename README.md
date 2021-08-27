@@ -13,6 +13,7 @@
  <a href="#-Descrição-do-projeto">Sobre</a> •
  <a href="#-Funcionalidades">Funcionalidades</a> •
  <a href="#-Tecnologias">Tecnologias</a> • 
+ <a href="#-Dependências">Dependências</a> • 
  <a href="#-Autora">Autora</a> • 
  <a href="#-Licença">Licença</a>
 </p>
@@ -54,6 +55,46 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br/>
 
+## 🛠 Dependências
+
+#Backend - Api .Net 5
+<br>Microsoft.EntityFrameworkCore.Design
+<br>Microsoft.EntityFrameworkCore.InMemory
+<br>Microsoft.EntityFrameworkCore.SqlServer
+
+#Frontend - Angular
+<br>@angular-devkit/build-angular@12.2.2
+<br>@angular/animations@12.2.3
+<br>@angular/cli@12.2.2
+<br>@angular/common@12.2.3
+<br>@angular/compiler@12.2.3
+<br>@angular/compiler-cli@12.2.3
+<br>@angular/core@12.2.3
+<br>@angular/forms@12.2.3
+<br>@angular/platform-browser@12.2.3
+<br>@angular/platform-browser-dynamic@12.2.3
+<br>@angular/router@12.2.3
+<br>@fortawesome/fontawesome-free@5.15.4
+<br>@types/jasmine@3.8.2
+<br>@types/node@12.20.21
+<br>ajv@6.12.6
+<br>bootstrap@4.6.0
+<br>jasmine-core@3.8.0
+<br>jquery@3.6.0
+<br>karma@6.3.4
+<br>karma-chrome-launcher@3.1.0
+<br>karma-coverage@2.0.3
+<br>karma-jasmine@4.0.1
+<br>karma-jasmine-html-reporter@1.7.0
+<br>ngx-bootstrap@7.0.0
+<br>popper.js@1.16.1
+<br>rxjs@6.6.7
+<br>source-map-explorer@2.5.2
+<br>tslib@2.3.1
+<br>typescript@4.3.5
+<br>zone.js@0.11.4
+
+<br>
 ## 🦉 Autora
 
 | [<img src="https://avatars3.githubusercontent.com/u/69127182?s=460&u=b6023a31c4fcfe7ddaa4683de3e99634646608be&v=4" width=115><br><sub>Mari Rizzo</sub>](https://github.com/mar1zzo) 
